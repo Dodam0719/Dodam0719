@@ -4,12 +4,6 @@
  ##### 🌱 I want to be a competent developer.
  <br />
  
- <h4 align="center">✨ SELF INTRODUCTION ✨</h4>
- <a href="https://continuous-appliance-729.notion.site/8762106650c74d7488db84265a23ee1d?pvs=4">
-  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"></a>
- <br />
- <br />
- 
  <h4>✨ TECH STACH & TOOLS ✨</h4>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
