@@ -11,11 +11,9 @@
 
  <h4>✨ Call Me ✨</h4>
  <a href="https://blog.naver.com/n_box19" target="_blank">
-  <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=Naver&logoColor=ffffff"/>
- </a>
+  <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
  <a href="mailto:n_box19@naver.com" target="_blank">
-  <img src="https://img.shields.io/badge/n_box19@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/>
- </a>
+  <img src="https://img.shields.io/badge/n_box19@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 <br/>
 <br/>
 
