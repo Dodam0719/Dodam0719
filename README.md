@@ -1,7 +1,7 @@
 <div align=center>
 
  ### Hello, my name is Dodam!
- ##### 🌱 I want to be a competent developer.
+ ##### 🌱 I want to be a developer who is constantly striving and growing.
  <br />
  
  <h4>✨ TECH STACH & TOOLS ✨</h4>
