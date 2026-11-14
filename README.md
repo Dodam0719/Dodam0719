@@ -1,7 +1,16 @@
 <div align=center>
 
- ### Hello, my name is Dodam!
- ##### 🌱 I want to be a developer who is constantly striving and growing.
+ ### Hello, I'm Dodam!
+ ##### 🌱 Founder & developer of DODAM LAB — building web apps for everyday life.
+ <br />
+
+ <h4>🚀 BUILDING AT DODAM LAB 🚀</h4>
+
+| | Service | What it does | Status |
+|:-:|:-:|:-:|:-:|
+| 💰 | [**우리살림**](https://woorisalim.dodamlab.kr) | 부부·커플 생활비 정산 · 모임통장 없이 비율대로 | Beta |
+| 🐶 | [**펫바통**](https://petbaton.dodamlab.kr) | 약 먹는 반려견을 맡길 때 · 돌봄 전달과 시터 기록 | Beta |
+
  <br />
  
  <h4>✨ TECH STACK & TOOLS ✨</h4>
@@ -16,6 +25,7 @@
  <br />
  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
  <br />
  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
