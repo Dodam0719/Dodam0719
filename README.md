@@ -2,6 +2,7 @@
 
  ### Hello, I'm Dodam!
  ##### 🌱 Founder & developer of DODAM LAB — building web apps for everyday life.
+ <br />
  
  <h4>✨ TECH STACK & TOOLS ✨</h4>
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
